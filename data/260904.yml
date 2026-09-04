@@ -7,7 +7,7 @@ about:
   head: a378923
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:37:09Z
+  collectedAt: 2026-09-04T20:56:25Z
 timeline:
   created: 2026-04-08
   lastCommit: 2026-04-06
@@ -82,5 +82,43 @@ total:
   openIssue: 0
   commit: 16
 ---
+path: /home/runner/.x-repo/github.com/huohuoer/wechat-cli
+collectedAt: 2026-09-04T20:56:25Z
+loc:
+  Python:
+    code: 2972
+    comments: 76
+    blanks: 524
+    files: 31
+  C:
+    code: 245
+    comments: 41
+    blanks: 33
+    files: 1
+  Json:
+    code: 90
+    comments: 0
+    blanks: 0
+    files: 6
+  JavaScript:
+    code: 72
+    comments: 5
+    blanks: 14
+    files: 2
+  Toml:
+    code: 19
+    comments: 0
+    blanks: 4
+    files: 1
+  Markdown:
+    code: 0
+    comments: 359
+    blanks: 243
+    files: 2
+total:
+  code: 3510
+  comments: 517
+  blanks: 830
+  files: 43
 ---
 
