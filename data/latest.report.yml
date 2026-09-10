@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-10T06:23:57Z
+  collectedAt: 2026-09-10T18:19:15Z
 timeline:
   created: 2026-04-08
   lastCommit: 2026-04-06
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 2256
+  star: 2259
   watcher: 12
-  fork: 1817
+  fork: 1818
   release: 0
   contributor: 3
   pullRequest: 24
@@ -85,7 +85,7 @@ total:
   commit: 16
 ---
 path: /home/runner/.x-repo/github.com/huohuoer/wechat-cli
-collectedAt: 2026-09-10T06:23:58Z
+collectedAt: 2026-09-10T18:19:19Z
 loc:
   Python:
     code: 2972
