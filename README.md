@@ -32,7 +32,7 @@ Total: **3,398** lines of code across **41** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,262 · **Forks**: 1,818 · **Open issues**: 0 · **Contributors**: 3
+- **Stars**: 2,271 · **Forks**: 1,820 · **Open issues**: 0 · **Contributors**: 3
 
 ## Totals (cumulative)
 
@@ -66,4 +66,4 @@ Install metadata for wechat-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T06:09:21Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T18:38:02Z._
