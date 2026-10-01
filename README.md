@@ -32,7 +32,7 @@ Total: **3,398** lines of code across **41** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,456 · **Forks**: 1,877 · **Open issues**: 0 · **Contributors**: 3
+- **Stars**: 2,463 · **Forks**: 1,879 · **Open issues**: 0 · **Contributors**: 3
 
 ## Totals (cumulative)
 
@@ -42,12 +42,12 @@ Total: **3,398** lines of code across **41** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-08-01 | 0 | 0 | 6 | 0 | 0 | 0 |
-| 90d | 2026-07-02 | 0 | 0 | 7 | 0 | 0 | 0 |
-| last180d | 2026-04-03 | 0 | 0 | 21 | 0 | 0 | 0 |
-| 360d | 2025-10-05 | 0 | 0 | 21 | 0 | 0 | 16 |
-| last720d | 2024-10-10 | 0 | 0 | 21 | 0 | 0 | 16 |
+| 30d | 2026-09-01 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-08-02 | 0 | 0 | 6 | 0 | 0 | 0 |
+| 90d | 2026-07-03 | 0 | 0 | 7 | 0 | 0 | 0 |
+| last180d | 2026-04-04 | 0 | 0 | 21 | 0 | 0 | 0 |
+| 360d | 2025-10-06 | 0 | 0 | 21 | 0 | 0 | 16 |
+| last720d | 2024-10-11 | 0 | 0 | 21 | 0 | 0 | 16 |
 
 ## Improve this data
 
@@ -58,4 +58,4 @@ Install metadata for wechat-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:54:02Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T07:08:37Z._
