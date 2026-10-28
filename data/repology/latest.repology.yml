@@ -1,10 +1,3 @@
-- repo: chocolatey
-  binname: wechat
-  visiblename: WeChat
-  version: 3.9.8.15
-  origversion: null
-  status: outdated
-  summary: WeChat instant messaging tool
 - repo: aur
   srcname: wechat
   binname: wechat
@@ -41,6 +34,13 @@
     - kimiblock@aur
   licenses:
     - LicenseRef-Proprietary
+- repo: chocolatey
+  binname: wechat
+  visiblename: WeChat
+  version: 3.9.8.15
+  origversion: null
+  status: outdated
+  summary: WeChat instant messaging tool
 - repo: homebrew_casks
   srcname: wechat
   visiblename: WeChat for Mac
@@ -98,7 +98,7 @@
   subrepo: extras
   binname: wechat
   visiblename: wechat
-  version: 4.1.15.56
+  version: 4.2.0.9
   origversion: null
   status: outdated
   licenses:
