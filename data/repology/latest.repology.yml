@@ -44,7 +44,7 @@
 - repo: homebrew_casks
   srcname: wechat
   visiblename: WeChat for Mac
-  version: 4.1.15.55
+  version: 4.2.0.12
   origversion: null
   status: outdated
   summary: Free messaging and calling application
