@@ -32,22 +32,22 @@ Total: **3,398** lines of code across **41** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,676 · **Forks**: 2,054 · **Open issues**: 0 · **Contributors**: 3
+- **Stars**: 2,682 · **Forks**: 2,057 · **Open issues**: 0 · **Contributors**: 3
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 22 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 16
+- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 23 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 16
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-08-30 | 0 | 0 | 3 | 0 | 0 | 0 |
-| 90d | 2026-07-31 | 0 | 0 | 7 | 0 | 0 | 0 |
-| last180d | 2026-05-02 | 0 | 0 | 16 | 0 | 0 | 0 |
-| 360d | 2025-11-03 | 0 | 0 | 22 | 0 | 0 | 16 |
-| last720d | 2024-11-08 | 0 | 0 | 22 | 0 | 0 | 16 |
+| 30d | 2026-09-30 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-08-31 | 0 | 0 | 4 | 0 | 0 | 0 |
+| 90d | 2026-08-01 | 0 | 0 | 8 | 0 | 0 | 0 |
+| last180d | 2026-05-03 | 0 | 0 | 17 | 0 | 0 | 0 |
+| 360d | 2025-11-04 | 0 | 0 | 23 | 0 | 0 | 16 |
+| last720d | 2024-11-09 | 0 | 0 | 23 | 0 | 0 | 16 |
 
 ## Distribution status
 
@@ -66,4 +66,4 @@ Install metadata for wechat-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T07:01:01Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T07:01:11Z._
