@@ -9,28 +9,6 @@
     - prc.zhao@outlook.com
   licenses:
     - Unfree
-- repo: nix_unstable
-  srcname: wechat
-  visiblename: wechat
-  version: 4.1.13.26
-  origversion: null
-  status: outdated
-  summary: Messaging and calling app
-  maintainers:
-    - nixpkgs@larry.engineer
-    - i@qaq.li
-    - prc.zhao@outlook.com
-  licenses:
-    - Unfree
-- repo: scoop
-  subrepo: extras
-  binname: wechat
-  visiblename: wechat
-  version: 4.2.0.13
-  origversion: null
-  status: outdated
-  licenses:
-    - Proprietary
 - repo: aur
   srcname: wechat
   binname: wechat
@@ -103,3 +81,25 @@
     - prc.zhao@outlook.com
   licenses:
     - Unfree
+- repo: nix_unstable
+  srcname: wechat
+  visiblename: wechat
+  version: 4.1.13.26
+  origversion: null
+  status: outdated
+  summary: Messaging and calling app
+  maintainers:
+    - nixpkgs@larry.engineer
+    - i@qaq.li
+    - prc.zhao@outlook.com
+  licenses:
+    - Unfree
+- repo: scoop
+  subrepo: extras
+  binname: wechat
+  visiblename: wechat
+  version: 4.2.0.52
+  origversion: null
+  status: outdated
+  licenses:
+    - Proprietary
