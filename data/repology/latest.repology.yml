@@ -1,14 +1,3 @@
-- repo: nix_stable_26_05
-  srcname: wechat
-  visiblename: wechat
-  version: 4.1.1.4
-  origversion: null
-  status: outdated
-  summary: Messaging and calling app
-  maintainers:
-    - prc.zhao@outlook.com
-  licenses:
-    - Unfree
 - repo: aur
   srcname: wechat
   binname: wechat
@@ -55,7 +44,7 @@
 - repo: homebrew_casks
   srcname: wechat
   visiblename: WeChat for Mac
-  version: 4.2.0.17
+  version: 4.2.0.54
   origversion: null
   status: outdated
   summary: Free messaging and calling application
@@ -71,6 +60,17 @@
   licenses:
     - Unfree
 - repo: nix_stable_25_11
+  srcname: wechat
+  visiblename: wechat
+  version: 4.1.1.4
+  origversion: null
+  status: outdated
+  summary: Messaging and calling app
+  maintainers:
+    - prc.zhao@outlook.com
+  licenses:
+    - Unfree
+- repo: nix_stable_26_05
   srcname: wechat
   visiblename: wechat
   version: 4.1.1.4
