@@ -84,7 +84,7 @@
 - repo: nix_unstable
   srcname: wechat
   visiblename: wechat
-  version: 4.1.13.26
+  version: 4.1.13.29
   origversion: null
   status: outdated
   summary: Messaging and calling app
